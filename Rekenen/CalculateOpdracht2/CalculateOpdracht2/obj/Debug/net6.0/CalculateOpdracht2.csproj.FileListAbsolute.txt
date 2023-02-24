@@ -1,0 +1,15 @@
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.exe
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.deps.json
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.runtimeconfig.json
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.dll
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\bin\Debug\net6.0\CalculateOpdracht2.pdb
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.csproj.AssemblyReference.cache
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.AssemblyInfoInputs.cache
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.AssemblyInfo.cs
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.csproj.CoreCompileInputs.cache
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.dll
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\refint\CalculateOpdracht2.dll
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.pdb
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\CalculateOpdracht2.genruntimeconfig.cache
+C:\ma\flex\FlexBlok3\Rekenen\CalculateOpdracht2\CalculateOpdracht2\obj\Debug\net6.0\ref\CalculateOpdracht2.dll
