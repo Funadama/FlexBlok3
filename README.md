@@ -2,7 +2,7 @@
 
 ##Les Variables 
 
-![alt text](https://github.com/Funadama/FlexBlok3/Images/chair.jpg)
+![alt text](https://github.com/Funadama/FlexBlok3/blob/main/Images/chair.jpg)
 float ChairPosX = 0
 float ChairPosY = 0
 float ChairPosZ = 0
