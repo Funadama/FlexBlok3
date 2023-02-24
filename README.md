@@ -1,6 +1,6 @@
 # FlexBlok3
 
-##Les Variables 
+## Les Variables 
 
 ![alt text](https://github.com/Funadama/FlexBlok3/blob/main/Images/chair.jpg)
 float ChairPosX = 0
